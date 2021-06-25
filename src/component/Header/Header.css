@@ -1,0 +1,19 @@
+.header {
+}
+
+.headerTitles {
+  font-family: "Josefin Sans", sans-serif;
+  color: #444;
+}
+
+.headerTitleSm {
+  top: 15%;
+}
+
+.headerTitleLg {
+  top: 20%;
+}
+
+.headerImg {
+  height: 450px;
+}

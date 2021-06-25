@@ -1,0 +1,26 @@
+.top {
+  font-family: "Benne", serif;
+}
+
+.left,
+.right {
+  flex: 3;
+}
+
+.center {
+  flex: 6;
+}
+
+.topIcon {
+  font-size: 20px;
+  margin-right: 10px;
+  color: #444;
+  cursor: pointer;
+}
+
+.topListItem {
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: 300;
+  cursor: pointer;
+}
