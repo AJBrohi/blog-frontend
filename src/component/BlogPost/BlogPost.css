@@ -1,0 +1,26 @@
+.postCategories {
+  font-family: "Josefin Sans", sans-serif;
+  color: #be9656;
+}
+
+.postCategory {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.postTitle {
+  font-family: "Lora", serif;
+}
+
+.postDate {
+  font-family: "Josefin Sans", sans-serif;
+  color: #999;
+}
+
+.postDesciption {
+  font-family: "Roboto Mono", monospace;
+  color: #444;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}

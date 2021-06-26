@@ -3,7 +3,7 @@ import './Topbar.css';
 
 const Topbar = () => {
     return (
-        <div className="top w-100 h-14 sticky top-0 flex items-center bg-white">
+        <div className="top w-100 h-14 sticky top-0 flex items-center bg-white z-50">
             <div className="left flex items-center justify-center">
                 <i class="topIcon fab fa-facebook-square"></i>
                 <i class="topIcon fab fa-twitter-square"></i>

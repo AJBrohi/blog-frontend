@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import Header from '../../Header/Header';
-import Posts from '../../Posts/Posts';
+import AllPost from '../../AllPost/AllPost';
 import Sidebar from '../../Sidebar/Sidebar';
 
 const Home = () => {
@@ -9,7 +9,7 @@ const Home = () => {
         <>
             <Header />
             <div className="home flex">
-                <Posts />
+                <AllPost />
                 <Sidebar />
             </div>
         </>
