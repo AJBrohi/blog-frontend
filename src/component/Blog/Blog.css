@@ -1,0 +1,36 @@
+.blog {
+  flex: 9;
+}
+
+.blogTitle {
+  font-family: "Lora", serif;
+}
+
+.blogIcon {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.blogIcon:first-child {
+  color: teal;
+}
+
+.blogIcon:last-child {
+  color: tomato;
+}
+
+.blogInformation {
+  font-family: "Josefin Sans", sans-serif;
+  color: #b39656;
+}
+
+.blogDescription {
+  font-family: "Roboto Mono", monospace;
+  color: #666;
+}
+
+.blogDescription::first-letter {
+  margin-left: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}

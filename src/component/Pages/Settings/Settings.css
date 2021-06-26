@@ -1,0 +1,32 @@
+.settingsWrapper {
+  flex: 9;
+}
+
+.settingsUpdateTitle {
+  color: lightcoral;
+}
+
+.settingsDeleteTitle {
+  color: red;
+}
+
+.settingsProfilePictureIcon {
+  background-color: lightcoral;
+}
+
+.settingsForm label {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.settingsForm input {
+  color: grey;
+  margin: 10px 0;
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+}
+
+.settingsSubmit {
+  background-color: teal;
+}

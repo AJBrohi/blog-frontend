@@ -1,0 +1,24 @@
+.writeFormGroup {
+  margin-left: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.writeImage {
+  width: 70vw;
+}
+
+.writeInput {
+  font-size: 30px;
+  border: none;
+  padding: 20px;
+  width: 70vw;
+}
+
+.writeInput:focus {
+  outline: none;
+}
+
+.writeSubmit {
+  background-color: teal;
+}
