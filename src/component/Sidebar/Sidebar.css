@@ -1,3 +1,45 @@
 .sidebar {
   flex: 3;
+  background-color: #fdfbfb;
+}
+
+.sidebarItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebarTitle {
+  margin: 10px;
+  padding: 5px;
+  width: 90%;
+  border-top: 1px solid #a7a4a4;
+  border-bottom: 1px solid #a7a4a4;
+  font-family: "Lora", serif;
+  font-size: 12px;
+  color: #222;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: center;
+}
+
+.sidebarItem img {
+  margin-top: 15px;
+}
+
+.sidebarItem p {
+  padding: 30px;
+}
+
+.sidebarListItem {
+  display: inline-block;
+  width: 50%;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.sidebarIcon {
+  font-size: 16px;
+  margin-right: 15px;
+  cursor: pointer;
 }
