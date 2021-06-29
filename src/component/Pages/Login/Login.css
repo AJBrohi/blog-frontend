@@ -1,0 +1,18 @@
+.login {
+  background: url("https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+  background-size: cover;
+}
+
+.loginForm {
+  margin: 10px 0;
+}
+
+.loginInput {
+  padding: 10px;
+  background-color: white;
+  border: none;
+}
+
+.loginButton {
+  background-color: rgba(16, 40, 177, 0.562);
+}
